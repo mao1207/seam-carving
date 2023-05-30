@@ -7,6 +7,7 @@ Seam Carving is an algorithm that handles the scaling of an image, keeping as mu
 input image
 
 ![imageBefore](https://raw.githubusercontent.com/mao1207/seam-carving/main/in/images/image.png)
+
 output image
 
 ![imageAfter](https://raw.githubusercontent.com/mao1207/seam-carving/main/out/images/image_result.png)
